@@ -21,4 +21,4 @@ Cloudflare's Git builds need no separate build command: `wrangler.jsonc` runs `n
 No animation library. CSS keyframes are in `src/styles.css`, and `src/motion.jsx` starts them on scroll. Add `data-r` to an element to reveal it on scroll. All motion stops when the device asks for reduced motion.
 
 ## Source
-Built from Charles's own CV site export (WYSIWYG Web Builder). Nothing was added beyond that content. The Majira Eco figures (500 hectares, 54% carbon reduction) are the company's own claims as given in the source.
+Built from Charles's own CV site export (WYSIWYG Web Builder). The biography in `person.bio` was supplied later by SpenceTec. Nothing else was added beyond that content. The Majira Eco figures (500 hectares, 54% carbon reduction) are the company's own claims as given in the source.

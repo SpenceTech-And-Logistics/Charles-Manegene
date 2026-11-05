@@ -129,6 +129,7 @@ function Stats() {
 function About() {
   return (
     <Section id="about" label="About" title="From the factory floor to the global cup">
+      <p className="intro" data-r="">{person.bio}</p>
       <p className="intro" data-r="">{person.intro}</p>
       <div className="cards">
         {focus.map((f, i) => (

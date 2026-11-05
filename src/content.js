@@ -5,6 +5,7 @@ export const person = {
   name: "Charles Muriuki",
   eyebrow: "Head of Factory Operations",
   headline: "Operational excellence for small-scale tea farmers' factory companies",
+  bio: "Charles Muriuki Manegene is an accomplished professional with extensive experience in Kenya’s tea industry, having held senior leadership positions at the Kenya Tea Development Agency (KTDA), including Regional Manager and Head of Factory Operations. His expertise spans strategic management, agricultural production, operational efficiency and stakeholder engagement. He has contributed to strengthening institutional performance, promoting sustainable tea production and advancing the interests of smallholder tea farmers in Kenya.",
   intro: "Head of Operations at Kenya Tea Development Agency Management Services (KTDA-MS), focused on the institutional capacity of small-scale tea farmers' factory companies delivering globally competitive products.",
   tagline: "Passionate about sustainable agro-processing for global value chains to empower rural populations.",
   photo: "/images/charles.jpg",
